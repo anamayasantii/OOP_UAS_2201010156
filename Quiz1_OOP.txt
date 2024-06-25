@@ -1,0 +1,19 @@
+2201010156
+Luh Natih Anamaya Santi
+
+Deskripsi Proyek
+- Aplikasi Toko Mainan adalah sebuah sistem yang dirancang untuk mengelola inventaris dan transaksi penjualan di sebuah toko mainan. Aplikasi ini memungkinkan pengguna untuk menambah, menghapus, dan mengubah data mainan serta melakukan transaksi penjualan. Aplikasi ini akan memanfaatkan teori Access Modifiers untuk mengatur akses terhadap data dan metode di dalam kelas-kelas yang ada.
+
+Fitur
+Manajemen Inventaris: Menambah, menghapus, dan mengubah data mainan.
+Transaksi Penjualan: Mencatat dan mengelola transaksi penjualan mainan.
+Laporan Penjualan: Membuat laporan penjualan harian, mingguan, dan bulanan.
+
+Penerapan Teori OOP: Access Modifiers
+
+Penggunaan Access Modifiers dalam aplikasi toko mainan ini sangat penting untuk melindungi data, menjaga keamanan, memudahkan pemeliharaan, mengurangi risiko kesalahan, dan memberikan kontrol penuh atas bagaimana data diakses dan dimodifikasi. Dengan demikian, aplikasi dapat berjalan dengan lebih aman, efisien, dan mudah dikelola.
+
+
+
+
+
